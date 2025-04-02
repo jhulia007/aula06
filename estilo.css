@@ -1,0 +1,51 @@
+.container{
+    border: 1px solid slateblue ;
+   overflow:auto ;
+   margin: 4px;
+   text-align: center;
+}
+.imagemEsquerda{
+    float: left;
+    
+    border: 2px solid rgb(179, 130, 130);
+    margin: 4px;
+}
+.imagemDireita{
+    float: right;
+    overflow: auto ;
+    margin: 4px;
+    border: 2px solid rgb(179, 130, 130);
+}
+.cabeca{
+    overflow: auto;
+    border: 2px solid skyblue;
+    text-align: center;
+
+}
+.imagem01 {
+    float: left;
+    overflow: ;
+    border: 4px solid rgb(114, 78, 182);
+    margin: 4px;
+    width: 300px;
+    
+}
+.imagem02 {
+    border: 4px solid rgb(121, 61, 161);
+    margin: 4px;
+    width: 300px;
+}
+.imagem03 {
+    float: right;
+    overflow: ;
+    border: 4px solid rgb(114, 69, 173);
+    margin: 4px;
+    width: 300px;
+}
+
+.rodape{
+    text-align: center;
+    border: 2px solid rgb(92, 56, 221);
+    margin: 4px;
+ 
+}
